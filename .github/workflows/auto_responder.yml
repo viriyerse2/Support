@@ -1,0 +1,40 @@
+name: Auto Responder
+
+on:
+  schedule:
+    # Check every 5 minutes for new issues to respond to
+    - cron: '*/5 * * * *'
+  
+  issues:
+    types: [opened, labeled]
+  
+  workflow_dispatch:
+
+jobs:
+  respond:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    permissions:
+      issues: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Run Auto Responder
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        TARGET_REPO: pidaxepan120/support
+      run: |
+        python auto_responder.py
