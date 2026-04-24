@@ -191,13 +191,13 @@
     "tokens"
   ],
   "team_assignments": {
-    "wallet": ["@viriyerse2/Suppor"],
-    "security": ["@viriyerse2/Suppor"],
-    "bug": ["@viriyerse2/Suppor"],
-    "transaction": ["@viriyerse2/Suppor"],
-    "contract": ["@viriyerse2/Suppor"],
-    "gas-fee": ["@viriyerse2/Suppor"],
-    "help": ["@viriyerse2/Suppor"],
-    "general": ["@viriyerse2/Suppor"]
+    "wallet": ["@viriyerse2/Support"],
+    "security": ["@viriyerse2/Support"],
+    "bug": ["@viriyerse2/Support"],
+    "transaction": ["@viriyerse2/Support"],
+    "contract": ["@viriyerse2/Support"],
+    "gas-fee": ["@viriyerse2/Support"],
+    "help": ["@viriyerse2/Support"],
+    "general": ["@viriyerse2/Support"]
   }
 }
