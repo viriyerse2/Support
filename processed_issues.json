@@ -1,6 +1,7 @@
 {
   "issues": [
-    "love3966/Support#160",
-    "spesmilo/electrum#10623"
+    "MetaMask/metamask-extension#42328",
+    "spesmilo/electrum#10623",
+    "love3966/Support#160"
   ]
 }
