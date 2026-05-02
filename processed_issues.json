@@ -1,12 +1,12 @@
 {
   "issues": [
-    "MetaMask/metamask-extension#42343",
+    "MetaMask/metamask-extension#42342",
     "MetaMask/metamask-extension#42328",
     "MetaMask/metamask-extension#42337",
-    "love3966/Support#160",
+    "MetaMask/metamask-extension#42343",
     "MetaMask/metamask-extension#42340",
     "spesmilo/electrum#10623",
-    "MetaMask/metamask-extension#42342",
-    "MetaMask/metamask-extension#42341"
+    "MetaMask/metamask-extension#42341",
+    "love3966/Support#160"
   ]
 }
