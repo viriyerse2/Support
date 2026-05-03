@@ -1,13 +1,14 @@
 {
   "issues": [
-    "Snowfork/snowbridge-app#243",
-    "MetaMask/metamask-extension#42342",
-    "love3966/Support#160",
+    "MetaMask/metamask-extension#42328",
     "MetaMask/metamask-extension#42337",
     "spesmilo/electrum#10623",
     "MetaMask/metamask-extension#42343",
+    "Snowfork/snowbridge-app#243",
     "MetaMask/metamask-extension#42341",
-    "MetaMask/metamask-extension#42340",
-    "MetaMask/metamask-extension#42328"
+    "MetaMask/metamask-extension#42342",
+    "love3966/Support#160",
+    "MetaMask/metamask-extension#42347",
+    "MetaMask/metamask-extension#42340"
   ]
 }
