@@ -2,11 +2,7 @@ name: Auto Responder
 
 on:
   schedule:
-    # Check every 5 minutes for new issues to respond to
     - cron: '*/5 * * * *'
-  
-  issues:
-    types: [opened, labeled]
   
   workflow_dispatch:
 
@@ -16,6 +12,7 @@ jobs:
     timeout-minutes: 5
     
     permissions:
+      contents: write
       issues: write
     
     steps:
@@ -35,6 +32,14 @@ jobs:
     - name: Run Auto Responder
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        TARGET_REPO: pidaxepan120/support
+        TARGET_REPO: viriyerse2/Support
       run: |
         python auto_responder.py
+    
+    - name: Commit responded issues tracking
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add responded_issues.json || echo "No file to add"
+        git commit -m "Update responded issues [skip ci]" || echo "No changes"
+        git push || echo "Push failed"
