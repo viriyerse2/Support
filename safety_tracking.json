@@ -1,10 +1,7 @@
 {
-  "daily_issues_created": 5,
-  "last_reset_date": "2026-05-05",
+  "daily_issues_created": 1,
+  "last_reset_date": "2026-05-06",
   "user_tag_history": {
-    "Unik0rnMaggie": "2026-05-05T11:50:37.238244",
-    "gauthierpetetin": "2026-05-05T20:46:28.658959",
-    "npm": "2026-05-05T23:36:38.226750",
-    "akolotov": "2026-05-05T23:38:11.069553"
+    "metamask": "2026-05-06T15:54:23.879516"
   }
 }
