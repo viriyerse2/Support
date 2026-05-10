@@ -1,7 +1,9 @@
 {
-  "daily_issues_created": 1,
+  "daily_issues_created": 3,
   "last_reset_date": "2026-05-10",
   "user_tag_history": {
-    "TARS-bot": "2026-05-10T07:35:43.457425"
+    "TARS-bot": "2026-05-10T07:35:43.457425",
+    "dkong561": "2026-05-10T20:08:44.054359",
+    "brenzi": "2026-05-10T20:09:32.431278"
   }
 }
