@@ -1,25 +1,19 @@
 {
   "monitored_repos": [
     "solana-labs/solana",
-    "spesmilo/electrum",
     "MetaMask/metamask-extension",
     "bnb-chain/bsc",
     "asnirbansifler/Support",
-    "Snowfork/snowbridge-app",
     "AnandhaDewes/Support",
     "Osherion/Support",
     "cosmos/cosmos-sdk",
-    "love3966/Support",
     "sparrowwallet/sparrow",
     "polkadot-js/api",
     "msurgenor/Support-Repo",
     "blockscout/blockscout",
-    "cake-tech/cake_wallet",
     "aave/aave-v3-core",
     "MetaMask/metamask-mobile",
     "LedgerHQ/ledger-live",
-    "sushiswap/sushiswap",
-    "curvefi/curve-contract",
     "balancer/balancer-v2-monorepo"
   ],
   "keywords": [
