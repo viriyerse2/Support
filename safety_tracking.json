@@ -1,15 +1,5 @@
 {
-  "daily_issues_created": 9,
-  "last_reset_date": "2026-05-22",
-  "user_tag_history": {
-    "jennapeterson-MNF": "2026-05-22T08:01:18.196692",
-    "Unik0rnMaggie": "2026-05-22T11:13:53.176826",
-    "kbarys-match-trade": "2026-05-22T11:14:48.168746",
-    "kulikov-dev": "2026-05-22T16:07:17.557972",
-    "tebiice-max": "2026-05-22T16:08:06.490802",
-    "LP715": "2026-05-22T18:11:05.876992",
-    "npm": "2026-05-22T20:15:18.348102",
-    "riyue121": "2026-05-22T20:16:28.391906",
-    "coelhogonzalo": "2026-05-22T22:41:35.570828"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-05-23",
+  "user_tag_history": {}
 }
