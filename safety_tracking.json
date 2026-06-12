@@ -1,13 +1,5 @@
 {
-  "daily_issues_created": 7,
-  "last_reset_date": "2026-06-11",
-  "user_tag_history": {
-    "davibroc": "2026-06-11T01:43:54.581330",
-    "dstr88": "2026-06-11T06:48:41.307138",
-    "metamask": "2026-06-11T11:21:41.453694",
-    "jbriaux": "2026-06-11T11:22:22.713610",
-    "grpc": "2026-06-11T15:01:28.097052",
-    "LilyLikesYou": "2026-06-11T15:02:21.424086",
-    "rrgina4": "2026-06-11T18:26:23.552034"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-06-12",
+  "user_tag_history": {}
 }
