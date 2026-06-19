@@ -1,10 +1,12 @@
 {
-  "daily_issues_created": 4,
+  "daily_issues_created": 6,
   "last_reset_date": "2026-06-19",
   "user_tag_history": {
     "davibroc": "2026-06-19T05:19:48.067855",
     "javiergarciavera": "2026-06-19T09:56:18.573697",
     "wolflows": "2026-06-19T09:57:17.509143",
-    "seaona": "2026-06-19T13:37:32.660479"
+    "seaona": "2026-06-19T13:37:32.660479",
+    "npm": "2026-06-19T16:20:27.088477",
+    "metamask": "2026-06-19T16:21:45.397889"
   }
 }
