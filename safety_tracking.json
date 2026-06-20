@@ -1,16 +1,7 @@
 {
-  "daily_issues_created": 10,
-  "last_reset_date": "2026-06-19",
+  "daily_issues_created": 1,
+  "last_reset_date": "2026-06-20",
   "user_tag_history": {
-    "davibroc": "2026-06-19T05:19:48.067855",
-    "javiergarciavera": "2026-06-19T09:56:18.573697",
-    "wolflows": "2026-06-19T09:57:17.509143",
-    "seaona": "2026-06-19T13:37:32.660479",
-    "npm": "2026-06-19T16:20:27.088477",
-    "metamask": "2026-06-19T16:21:45.397889",
-    "Matt561": "2026-06-19T18:12:24.315985",
-    "michaelmccallam": "2026-06-19T20:08:19.914020",
-    "Unik0rnMaggie": "2026-06-19T21:38:52.613057",
-    "LeVinhGithub": "2026-06-19T21:40:22.949548"
+    "AdaEpic": "2026-06-20T03:36:41.024979"
   }
 }
