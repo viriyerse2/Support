@@ -1,14 +1,5 @@
 {
-  "daily_issues_created": 10,
-  "last_reset_date": "2026-06-23",
-  "user_tag_history": {
-    "kq12-dev": "2026-06-23T04:35:09.440484",
-    "schoolkamsergj": "2026-06-23T08:18:37.254862",
-    "phantuanphong": "2026-06-23T08:19:33.204025",
-    "bschorchit": "2026-06-23T11:33:29.044135",
-    "metamask": "2026-06-23T22:14:24.452933",
-    "DostoevskysPiano": "2026-06-23T16:37:52.078065",
-    "machoalpha77": "2026-06-23T20:54:51.478088",
-    "MajorLift": "2026-06-23T23:32:46.010014"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-06-24",
+  "user_tag_history": {}
 }
