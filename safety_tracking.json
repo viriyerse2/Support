@@ -1,11 +1,5 @@
 {
-  "daily_issues_created": 6,
-  "last_reset_date": "2026-07-10",
-  "user_tag_history": {
-    "vivek-consensys": "2026-07-10T08:34:30.138430",
-    "javiergarciavera": "2026-07-10T11:31:12.450900",
-    "seaona": "2026-07-10T11:32:10.269039",
-    "metamask": "2026-07-10T17:57:26.445987",
-    "enerzy17": "2026-07-10T19:43:55.388295"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-07-11",
+  "user_tag_history": {}
 }
