@@ -1,12 +1,5 @@
 {
-  "daily_issues_created": 6,
-  "last_reset_date": "2026-07-15",
-  "user_tag_history": {
-    "MajorLift": "2026-07-15T12:05:01.247025",
-    "ulyanas": "2026-07-15T14:06:04.439652",
-    "MetaMask": "2026-07-15T14:06:47.873760",
-    "vivek-consensys": "2026-07-15T15:46:34.221736",
-    "metamask": "2026-07-15T17:15:58.328784",
-    "odudex": "2026-07-15T20:58:44.376235"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-07-16",
+  "user_tag_history": {}
 }
