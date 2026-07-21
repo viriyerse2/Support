@@ -1,7 +1,8 @@
 {
-  "daily_issues_created": 1,
+  "daily_issues_created": 2,
   "last_reset_date": "2026-07-21",
   "user_tag_history": {
-    "ledgerhq": "2026-07-21T00:05:53.441893"
+    "ledgerhq": "2026-07-21T00:05:53.441893",
+    "metamask": "2026-07-21T03:40:40.145328"
   }
 }
