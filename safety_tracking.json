@@ -1,12 +1,5 @@
 {
-  "daily_issues_created": 9,
-  "last_reset_date": "2026-07-24",
-  "user_tag_history": {
-    "seaona": "2026-07-24T14:53:02.309395",
-    "Unik0rnMaggie": "2026-07-24T11:14:42.291635",
-    "Labronski": "2026-07-24T16:40:23.958880",
-    "workspace": "2026-07-24T18:05:05.680985",
-    "3": "2026-07-24T19:43:13.128269",
-    "npm": "2026-07-24T23:28:59.568272"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-07-25",
+  "user_tag_history": {}
 }
