@@ -1,8 +1,9 @@
 {
-  "daily_issues_created": 5,
+  "daily_issues_created": 6,
   "last_reset_date": "2026-08-05",
   "user_tag_history": {
     "metamask": "2026-08-05T11:33:00.724682",
-    "sgextcsi": "2026-08-05T15:33:49.242561"
+    "sgextcsi": "2026-08-05T15:33:49.242561",
+    "npm": "2026-08-05T17:08:34.690994"
   }
 }
