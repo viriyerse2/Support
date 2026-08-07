@@ -1,11 +1,7 @@
 {
-  "daily_issues_created": 6,
-  "last_reset_date": "2026-08-06",
+  "daily_issues_created": 1,
+  "last_reset_date": "2026-08-07",
   "user_tag_history": {
-    "MajorLift": "2026-08-06T03:31:06.263918",
-    "NoQuarter21M": "2026-08-06T09:16:04.288264",
-    "simple_types": "2026-08-06T11:36:51.039094",
-    "seaona": "2026-08-06T13:17:37.097047",
-    "kamalgaur82": "2026-08-06T15:34:26.609838"
+    "npm": "2026-08-07T00:39:34.059140"
   }
 }
