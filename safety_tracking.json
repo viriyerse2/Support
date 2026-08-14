@@ -1,9 +1,5 @@
 {
-  "daily_issues_created": 5,
-  "last_reset_date": "2026-08-13",
-  "user_tag_history": {
-    "sgextcsi": "2026-08-13T10:32:05.428612",
-    "workspace": "2026-08-13T17:23:25.718061",
-    "coldtest-berlin": "2026-08-13T19:42:18.843220"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-08-14",
+  "user_tag_history": {}
 }
