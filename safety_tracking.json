@@ -1,9 +1,5 @@
 {
-  "daily_issues_created": 3,
-  "last_reset_date": "2026-08-22",
-  "user_tag_history": {
-    "noop32": "2026-08-22T06:53:22.347165",
-    "qlrd": "2026-08-22T14:56:28.601061",
-    "roundish594": "2026-08-22T20:20:24.799647"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-08-23",
+  "user_tag_history": {}
 }
