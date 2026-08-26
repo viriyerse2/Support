@@ -1,5 +1,8 @@
 {
-  "daily_issues_created": 0,
+  "daily_issues_created": 2,
   "last_reset_date": "2026-08-26",
-  "user_tag_history": {}
+  "user_tag_history": {
+    "vivek-consensys": "2026-08-26T08:47:08.165296",
+    "sgextcsi": "2026-08-26T08:47:51.029804"
+  }
 }
