@@ -1,5 +1,7 @@
 {
-  "daily_issues_created": 0,
+  "daily_issues_created": 1,
   "last_reset_date": "2026-09-01",
-  "user_tag_history": {}
+  "user_tag_history": {
+    "npm": "2026-09-01T05:38:58.457352"
+  }
 }
