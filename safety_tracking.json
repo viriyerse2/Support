@@ -1,9 +1,5 @@
 {
-  "daily_issues_created": 6,
-  "last_reset_date": "2026-09-01",
-  "user_tag_history": {
-    "npm": "2026-09-01T21:20:07.336070",
-    "eesignal": "2026-09-01T10:27:40.499718",
-    "MajorLift": "2026-09-01T18:38:32.438195"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-09-02",
+  "user_tag_history": {}
 }
