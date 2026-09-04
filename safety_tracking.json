@@ -1,9 +1,5 @@
 {
-  "daily_issues_created": 4,
-  "last_reset_date": "2026-09-03",
-  "user_tag_history": {
-    "metamask": "2026-09-03T19:06:20.297134",
-    "4": "2026-09-03T15:50:05.512607",
-    "stellar": "2026-09-03T23:31:58.518238"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-09-04",
+  "user_tag_history": {}
 }
